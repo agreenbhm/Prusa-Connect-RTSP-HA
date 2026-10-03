@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: schmacka/rtsp-to-prusa-ha
+  IMAGE_NAME: agreenbhm/rtsp-to-prusa-ha
 
 jobs:
   build:
